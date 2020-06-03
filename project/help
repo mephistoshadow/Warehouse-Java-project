@@ -1,0 +1,4 @@
+ javac Person.java Pallet.java LoadingManager.java Loader.java Main.java Picker.java PickingManager.java Request.java Sequencer.java SequencingManager.java TranslationTable.java Truck.java Warehouse.java WareHouseManager.java WarehousePicking.java WorkShopManager.java
+  
+What to use to compile but can't get Main to run for some reason.
+
